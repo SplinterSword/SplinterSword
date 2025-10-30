@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/e96bb7e4-4018-4150-a9a0-457c6b8faa36?tab=badges&badge=first-design)
 
 <!--
