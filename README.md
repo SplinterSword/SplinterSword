@@ -39,8 +39,6 @@
 - 🌍 Portfolio: https://my-portofolio-beta-five.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/sparsh-jain2003
 - 🐙 GitHub: https://github.com/SplinterSword
-- ✍️ Blog: Medium (backend & authentication-focused writing)
-
 ---
 
 ⭐ If something here looks interesting, feel free to explore my repos or reach out.
