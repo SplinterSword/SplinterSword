@@ -14,9 +14,9 @@
 ---
 
 ## 🧪 Currently Working On
-- 🔐 **Password Manager**  
-  Building a secure, privacy-first password manager with strong encryption, authentication flows, and clean UX.  
-  👉 Repo: https://github.com/SplinterSword/passwuts
+- 🔐 **My Very Own Retrival Augmented System (name is a work in progress)**  
+  Building my very Own Retrival Augmented System CLI tool to learn how search index and lookups work in traditional system, how vector databases are configured and made and how semantic vectors are formed. 
+  👉 Repo: [https://github.com/SplinterSword/Retrival_Augmented_Generation](https://github.com/SplinterSword/Retrival_Augmented_Generation)
 
 ---
 
