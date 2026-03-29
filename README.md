@@ -14,12 +14,7 @@
 ---
 
 ## 🧪 Currently Working On
--  **My Very Own Retrival Augmented System (name is a work in progress)**
-  
-  Building my very Own Retrival Augmented System CLI tool to learn how search index and lookups work in traditional system, how vector databases are configured and made and how semantic vectors are formed. 
-
- 👉 Repo: [https://github.com/SplinterSword/Retrival_Augmented_Generation](https://github.com/SplinterSword/Retrival_Augmented_Generation)
-
+-  **I am learning more about AI Agents**
 ---
 
 ## 🛠 Tech Stack
