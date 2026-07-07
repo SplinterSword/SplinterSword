@@ -13,8 +13,8 @@
 
 ---
 
-## 🧪 Currently Working On
--  **I am learning more about AI Agents**
+## 🧪 Currently Working In
+-  **I am currently working in two us Startups, Medicoed and Cognitive Sprints both as a part-time employeee**
 ---
 
 ## 🛠 Tech Stack
@@ -33,7 +33,7 @@
 ---
 
 ## 🌐 Links
-- 🌍 Portfolio: https://my-portofolio-beta-five.vercel.app/
+- 🌍 Portfolio: [https://my-portofolio-beta-five.vercel.app/](https://portfolio-seven-red-67.vercel.app/)
 - 💼 LinkedIn: https://www.linkedin.com/in/sparsh-jain2003
 - 🐙 GitHub: https://github.com/SplinterSword
 ---
